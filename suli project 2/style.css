@@ -1,0 +1,23 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(121,9,71,1) 35%, rgba(102,0,255,1) 100%);
+}
+
+h1 {
+    color: white;
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+}
+
+.links {
+    display: inline-block;
+}
+
+.links li {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 3rem;
+}
